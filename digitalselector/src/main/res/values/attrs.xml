@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DigitalSelector">
+        <attr name="selectedColor" format="color" />
+        <attr name="number" format="integer" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColorNotSelected" format="color" />
+        <attr name="textColorSelected" format="color" />
+        <attr name="insideMargin" format="dimension" />
+    </declare-styleable>
+</resources>
